@@ -1,0 +1,16 @@
+
+input[type=password] {
+      background-color: yellow;
+}
+input[type=number] {
+    color: red;
+}
+input:focus {
+    color: brown;
+}
+p {
+    color: rgb(0, 128, 0);
+}
+.pic li {
+    font-family: impact, sans-serif;
+}
